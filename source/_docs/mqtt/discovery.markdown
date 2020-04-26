@@ -265,6 +265,7 @@ Supported abbreviations for device registry configuration:
 
 The following software has built-in support for MQTT discovery:
 
+- [SmartHome](https://github.com/roncoa/SmartHome)
 - [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) (starting with 5.11.1e)
 - [ESPHome](https://esphome.io)
 - [ESPurna](https://github.com/xoseperez/espurna)
